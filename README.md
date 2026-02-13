@@ -59,7 +59,10 @@
 3. Кинь файл в папку:  
    `Steam\steamapps\common\Portal 2\portal2\cfg\`
 4. В игре открой консоль (`ё` или `~`) и напиши: `exec popapp`
+
 ЭТО НА ПОСЛЕДОК
+
+          
           ／\￣ ＼            
           l      l            
            ＼ _＿ ノ            
