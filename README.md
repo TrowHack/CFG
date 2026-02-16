@@ -1,4 +1,6 @@
-# Portal 2 Config by popapp228
+# Portal 2 Config "novator" 
+by popapp228
+
 ПРИМИЧАНИЕ Нажми `C` — включится noclip через script abuse и если нажать c в режиме cheats on то будет обычный ноклип без изменений sv_cheats!!
 Мой личный конфиг для Portal 2 с читерскими биндами и noclip через script abuse.
 
