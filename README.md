@@ -4,7 +4,7 @@
 
 ## 📥 Установка
 
-[![Скачать конфиг](https://img.shields.io/badge/Скачать-popapp228.cfg-blue?style=for-the-badge&logo=github)](https://github.com/TrowHack/CFG/releases/tag/cfg)
+[![Скачать конфиг](https://img.shields.io/badge/Скачать-popapp228.cfg-blue?style=for-the-badge&logo=github)]
 
 ### Способ 1: Автоматическая установка (рекомендуется)
 1. Нажми на кнопку **"Скачать конфиг"** выше
