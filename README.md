@@ -17,7 +17,7 @@ by popapp228
 
 ## 🚀 Особенности
 
-### 🌀 Noclip без sv_cheats (все script's в menu в том числе и script abuse)
+### 🌀 все script's в menu в том числе и script abuse
 
 - ✅ Работает в **одиночной игре**
 - ✅ Работает за **Атласа (синий робот)** в кооперативе
